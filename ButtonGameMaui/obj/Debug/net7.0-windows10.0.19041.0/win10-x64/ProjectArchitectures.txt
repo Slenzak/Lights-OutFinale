@@ -1,0 +1,1 @@
+C:\Users\kubol\source\repos\ButtonGameMaui\ButtonGameMaui\ButtonGameMaui.csproj;x64
